@@ -9,7 +9,7 @@ O objetivo é fazer o Mario pular os obstáculos e alcançar a maior pontuação
 - O jogo reinicia apertando a tecla "F5".
 
 ## Linguagens utilizadas
-- HTML5
+- HTML
 - CSS
 - JavaScript
 
